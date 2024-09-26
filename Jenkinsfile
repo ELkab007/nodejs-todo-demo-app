@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         // Git Repo
-        GIT_URL = "https://github.com/ginigangadharan/nodejs-todo-demo-app"
+        GIT_URL = "https://github.com/ELkab007/nodejs-todo-demo-app.git"
         // Database variables
         DATABASE_SERVER = "dbnode1"
         POSTGRES_USER = "postgres"
